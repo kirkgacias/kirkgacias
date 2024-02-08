@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Building the Foundation: Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
+  - [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 <b></b>
 <b></b>
