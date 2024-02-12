@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
 <b></b>
 <b></b>
 - <b>osTicket (Help Desk Ticketing System)</b>
