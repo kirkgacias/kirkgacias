@@ -7,6 +7,13 @@
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
 <b></b>
 <b></b>
+
+- <b>Active Directory</b>
+  - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
+
+<b></b>
+<b></b>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
