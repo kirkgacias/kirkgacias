@@ -9,6 +9,7 @@
 <b></b>
 
 - <b>Active Directory</b>
+  - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
   - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
 
 <b></b>
