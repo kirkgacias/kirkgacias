@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
+  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
 <b></b>
 <b></b>
