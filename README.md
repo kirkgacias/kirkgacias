@@ -1,23 +1,24 @@
 <h1>Hi, I'm Kirk, an <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>☺</h1>
 
+<h2> ⭐ Featured Projects:</h2>
+
+- [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
+- [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
+
   - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/kirkgacias/ad-and-azuresetup)
   - [Active Directory Deployment and Configuration](https://github.com/kirkgacias/ad-deployment-configuration)
-<b></b>
-<b></b>
-
-- <b>Active Directory</b>
   - [Active Directory: User Generation](https://github.com/kirkgacias/ad-user-generation)
-  - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
 
 <b></b>
 <b></b>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
