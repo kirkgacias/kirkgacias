@@ -3,6 +3,8 @@
 <h2> ⭐ Featured Projects:</h2>
 
 - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
+- [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
+- [ServiceNow: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/osticket-ticket-resolution)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
 
 
