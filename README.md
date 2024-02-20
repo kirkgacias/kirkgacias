@@ -19,8 +19,15 @@
 <b></b>
 <b></b>
 
+- <b>Jira Service Management</b>
+  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/kirkgacias/jira-configuration)
+
+<b></b>
+<b></b>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
+ 
 
 <h2>🤳Connect with me:</h2>
 
