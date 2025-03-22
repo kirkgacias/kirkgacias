@@ -2,12 +2,19 @@
 
 <h2> ⭐ Featured Projects:</h2>
 
-
+- [CCNA : Configuring Static Routes in Packet Tracer](https://github.com/kirkgacias/ccnastaticip/)
 - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
 - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
 - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/kirkgacias/spiceworks-knowledge-base)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/kirkgacias/osticket-ticket-resolution)
 
+<br>
+
+<h2>👨‍💻 CCNA Networking Projects:</h2>
+
+- [CCNA : Configuring Static Routes in Packet Tracer](https://github.com/kirkgacias/ccnastaticip/)
+
+<br>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -30,6 +37,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kirkgacias/osticket-prereqs)
  
+<br>
 
 <h2>🤳Connect with me:</h2>
 
