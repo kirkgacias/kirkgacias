@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kirk, an <a href="https://www.linkedin.com/in/kirk-gacias/">IT Professional</a>☺</h1>
 
 <h2> ⭐ Featured Projects:</h2>
-
+- [CCNA : Small Office Network with Guest Access in Packet Tracer](https://github.com/kirkgacias/SmallOfficeNetwork)
 - [CCNA : Configuring Static Routes in Packet Tracer](https://github.com/kirkgacias/ccnastaticip/)
 - [Active Directory: Practical Scenario Simulation](https://github.com/kirkgacias/ad-scenario-simulation)
 - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
